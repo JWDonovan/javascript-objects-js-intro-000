@@ -1,1 +1,1 @@
-let playlist = { rammstein: 'Du Hast' }
+let playlist = { rammstein: 'Du Hast' };
